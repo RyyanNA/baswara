@@ -21,4 +21,4 @@ Hello, we from class IX Baswara will present our website for all of you.
 ## Update
 
 - 'readme.md' has been added
-- new style
+- new look on web page

@@ -12,7 +12,7 @@ Hello, we from class IX Baswara will present our website for all of you.
 
 ## Authors
 
-- [@RyyanNA](https://github.com/RyyanNA)
+- [@RyyanNA](https://www.instagram.com/ryan.nararya07/)
 
 ## Go To Website
 

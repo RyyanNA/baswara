@@ -676,7 +676,7 @@ img {
   row-gap: 3.5rem;
 }
 .footer__bg {
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/assets/img/wallpaper.gif);
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/assets/img/footer.gif);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom;
